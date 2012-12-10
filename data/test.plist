@@ -1,0 +1,12 @@
+// !$*UTF8*$!
+{
+    archiveVersion = 1;
+    classes={
+    };
+    objectVersion = 46;
+    objects = {
+/* Begin PBXBuildFile section */
+        1293C7EB162895780040498D /* whatever */ = { m = 1; };
+        array = ( 1, 2, 3 );
+    };
+}
