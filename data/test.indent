@@ -1,0 +1,16 @@
+
+    INDENTATION TEST
+        First
+        Second
+        Third
+            Super
+            Nested
+    TEST COMPLETE
+    Notes:
+     It would be nice if I didnt have to indent the first array
+     But I dont know how to build the rules for that
+     Perhaps if I can emit START and EOF
+     and create a special rule:
+        array: START elements EOF
+        array: INDENT elements DEDENT
+    But no matter
