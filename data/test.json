@@ -1,0 +1,21 @@
+{
+    "bools":[
+        false,
+        null,
+        true
+    ],
+    "whatever":"I love / hate you",
+    "floats":[
+        1.0,
+        10.01,
+        -100.903,
+        1e10
+    ],
+    "one":1,
+    "array":[
+        10,
+        ["another array", {"2":"cool"}],
+        3,
+        "four"
+    ]
+}
