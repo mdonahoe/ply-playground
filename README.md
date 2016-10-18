@@ -5,19 +5,24 @@ This repo is my testing grounds for learning [PLY](http://www.dabeaz.com/ply/)
 
 ##Setup
  `git submodule init`
+
  `git submodule update`
 
 
 ##Example parsers
 
 - json.py : a custom json parser
+
     `cat data/test.json | python json.py`
 
 - plist.py : a custom plist file parser
+
     `cat data/test.plit | python plist.py`
 
 - indent.py: a demo of parsing a language with significant whitespace
+
     `cat data/test.indent | python indent.py`
+
 
 
 ##Lex-Yacc Resources
